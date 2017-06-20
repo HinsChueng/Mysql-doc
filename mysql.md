@@ -2,14 +2,9 @@
 
 ## 1. 更新source.list,安装mysql
 
-      1. sudo vim /etc/apt/sources.list,打开source.list删除mouse行   
+      1. sudo vim /etc/apt/sources.list,打开source.list删除mouse行
       2. vim .vimrc  
-      3. 粘贴要更新的源码，覆盖source.list原有内容 
-      4. 安装apcth    
-         sudo apt-get update
-         sudo apt-get install tasksel
-         sudo tasksel
-        
+      3. 粘贴要更新的源码，覆盖source.list原有内容，安装aptch 
 ## 2. 数据库连接本地服务器
 
       mysql -u root -p
