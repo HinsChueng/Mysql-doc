@@ -5,10 +5,10 @@
       1. sudo vim /etc/apt/sources.list,打开source.list删除mouse行   
       2. vim .vimrc  
       3. 粘贴要更新的源码，覆盖source.list原有内容 
-      4.安装apcth    
-        sudo apt-get update
-        sudo apt-get install tasksel
-        sudo tasksel
+      4. 安装apcth    
+         sudo apt-get update
+         sudo apt-get install tasksel
+         sudo tasksel
         
 ## 2. 数据库连接本地服务器
 
