@@ -3,7 +3,7 @@
 ### 技术文档
 
 * [mysql的安装](mysql的安装.md)
-* [atom](vim命令.md)
+* [vim命令](vim命令.md)
 * [cgi](cgi.md)
 
 ### 课程设计
