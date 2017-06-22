@@ -165,7 +165,6 @@ void do_delete(MYSQL *db)
 	int id;
 	printf("input delete id >> ");
 	scanf("%d", &id);
-
 	sprintf(sql, "delete from stu  where id = %d", id);
 	if (mysql_real_query(db, sql, strlen(sql) + 1) != 0)
 	{
