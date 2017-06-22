@@ -2,7 +2,7 @@
 培训日记
 ### 技术文档
 
-* [mysql的安装](mysql安装.md)
+* [mysql的安装](mysql的安装.md)
 * [atom](Atom.md)
 * [cgi](cgi.md)
 
