@@ -40,7 +40,7 @@ int cgiMain()
 	}
 	else
 	{
-		sprintf(sql, "select * from information where sname = '%s' and flag=1", sname);
+		sprintf(sql, "select * from information where sname = '%s' and flag=0", sname);
 	}
 
 
